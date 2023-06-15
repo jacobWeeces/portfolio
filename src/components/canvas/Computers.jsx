@@ -6,11 +6,11 @@ import CanvasLoader from '../Loader';
 
 const Computers = () => {
 
-  const { scene } = useGLTF('/desktop_pc/scene.gltf');
+  const { scene } = useGLTF('./desktop_pc/scene.gltf');
   
   return (
     <mesh>
-      <hemisphereLight intensity={0.15} groundColor={0x000000} />
+      <hemisphereLight intensity={0.15} groundColor={black} />
       <pointLight intensity={1} />
       <primitive object={scene.children[0]} />
     </mesh>
