@@ -5,7 +5,9 @@ import { OrbitControls, Preload, useGLTF } from '@react-three/drei';
 import CanvasLoader from '../Loader';
 
 const Computers = () => {
+
   const { scene } = useGLTF('/desktop_pc/scene.gltf');
+  
   return (
     <mesh>
       <hemisphereLight intensity={0.15} groundColor={0x000000} />
