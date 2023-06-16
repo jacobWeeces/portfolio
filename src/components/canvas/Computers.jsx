@@ -10,7 +10,11 @@ const Computers = () => {
     <mesh>
       <hemisphereLight intensity={0.15} groundColor="black" />
       <pointLight intensity={1} />
-      <primitive object={scene.children[0]} />
+      <primitive 
+      object={scene.children[0]} 
+      scale={0.75}
+      position={[0, -3.25, -1.5]}
+      />
     </mesh>
   );
 };
