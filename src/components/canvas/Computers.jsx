@@ -1,18 +1,18 @@
-import { Suspense } from 'react';
+import { Suspense, useEffect, useState } from 'react';
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls, Preload, useGLTF } from '@react-three/drei';
 
 import CanvasLoader from '../Loader';
 
 const Computers = () => {
-  const { scene } = useGLTF('./desktop_pc/scene.gltf');
+  const computer = useGLTF('./desktop_pc/scene.gltf');
   return (
     <mesh>
       <hemisphereLight intensity={0.15} groundColor="black" />
       <pointLight intensity={1} />
       <primitive 
-      object={scene.children[0]}
-      scale={0.75}
+      object={computer.scene}
+      scale={0.70}
       position={[0, -3.25, -1.5]}
       />
     </mesh>
