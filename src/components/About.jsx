@@ -43,6 +43,7 @@ const About = () => {
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
+        // eslint-disable-next-line react/no-unescaped-entities
         >I'm a skilled web developer with experience in HTML, CSS, Vanilla JS, React, and PHP. I'm also very familiar with CMS platforms such as WordPress and Shopify. I'm currently working as a freelance web developer and I'm always looking for new opportunities to learn and grow.
       </motion.p>
 
