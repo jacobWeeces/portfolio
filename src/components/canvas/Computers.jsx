@@ -1,9 +1,12 @@
+/* eslint-disable react/no-unknown-property */
+// eslint-disable-next-line no-unused-vars
 import React, { Suspense, useEffect, useState } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 
 import CanvasLoader from "../Loader";
 
+// eslint-disable-next-line react/prop-types
 const Computers = ({ isMobile }) => {
   const computer = useGLTF("./desktop_pc/scene.gltf");
 
@@ -20,9 +23,11 @@ const Computers = ({ isMobile }) => {
       />
       <pointLight intensity={1} />
       <primitive
+        // eslint-disable-next-line react/no-unknown-property
         object={computer.scene}
-        scale={isMobile ? 0.4 : .75}
-        position={isMobile ? [-.2, 0, -.3] : [0, -1.9, -1.5]}
+        scale={isMobile ? 0.35 : .75}
+        position={isMobile ? [-.2, -1, -.5] : [0, -2.9, -1.5]}
+        // eslint-disable-next-line react/no-unknown-property
         rotation={[-0.01, -0.2, -0.1]}
       />
     </mesh>
