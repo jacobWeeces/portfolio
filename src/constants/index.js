@@ -18,7 +18,7 @@ import {
   meta,
   upwork,
   foureyes,
-  shopify,
+  ignition,
   carrent,
   jobit,
   tripguide,
@@ -104,7 +104,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Squarespace, WordPress, and Shopify Developer",
+    title: "Squarespace, WordPress, and ignition Developer",
     company_name: "Upwork",
     icon: upwork,
     iconBg: "#14a80d",
@@ -130,9 +130,9 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "WordPress Developer",
+    company_name: "Ignition Advertising",
+    icon: ignition,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [

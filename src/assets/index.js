@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
+import ignition from "./company/ignition.png";
 import upwork from "./company/upwork.png";
 import foureyes from "./company/foureyes.png";
 
@@ -53,7 +53,7 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
+  ignition,
   upwork,
   foureyes,
   carrent,
