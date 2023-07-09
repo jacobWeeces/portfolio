@@ -134,7 +134,7 @@ const experiences = [
     company_name: "Ignition Advertising",
     icon: ignition,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "December 2021 - March 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -143,16 +143,16 @@ const experiences = [
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    title: "Squarespace, WordPress, and ignition Developer",
+    company_name: "Upwork",
+    icon: upwork,
+    iconBg: "#14a80d",
+    date: "September 2016 - October 2018",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining websites using content management systems and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Work closely with clients to create their vision.",
     ],
   },
 ];
