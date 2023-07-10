@@ -19,9 +19,9 @@ import {
   upwork,
   foureyes,
   ignition,
-  carrent,
-  jobit,
-  tripguide,
+  Heavensdoor,
+  blueox,
+  kindness,
   threejs,
 } from "../assets";
 
@@ -42,7 +42,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Frontend Web Developer",
     icon: web,
   },
   {
@@ -50,11 +50,11 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "WordPress Developer",
     icon: backend,
   },
   {
-    title: "CMS Developer",
+    title: "Shopify Developer",
     icon: creator,
   },
 ];
@@ -177,66 +177,65 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Heaven's Door",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Bob Dylan's whiskey brand, Heaven's Door. This site was built on Squarespace, and I managed SEO for several months. By the time we were finished, there were about 50,000 daily visitors.",
     tags: [
       {
-        name: "react",
+        name: "SquareSpace",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "CSS",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: Heavensdoor,
   },
   {
-    name: "Job IT",
+    name: "Blue Ox Films",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A beautiful site for beautiful work. Blue Ox Films' site that was built on SquareSpace's developer mode platform. Everything was put together from the ground up using HTML, CSS, JavaScript, and JSON-T.",
     tags: [
       {
-        name: "react",
+        name: "SquareSpace",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "CSS",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: blueox,
+    source_code_link: "https://www.blueoxfilms.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Kindness",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A welcoming design for a heart-warming idea. Kindness was custom built from the ground up using Squarespace's developer mode. ",
     tags: [
       {
-        name: "nextjs",
+        name: "Squarespace",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "CSS",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: kindness,
     source_code_link: "https://github.com/",
   },
 ];

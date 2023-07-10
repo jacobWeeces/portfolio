@@ -26,9 +26,9 @@ import ignition from "./company/ignition.png";
 import upwork from "./company/upwork.png";
 import foureyes from "./company/foureyes.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import Heavensdoor from "./Heavensdoor.png";
+import blueox from "./blueox.png";
+import kindness from "./kindness.png";
 
 export {
   logo,
@@ -56,7 +56,7 @@ export {
   ignition,
   upwork,
   foureyes,
-  carrent,
-  jobit,
-  tripguide,
+  Heavensdoor,
+  blueox,
+  kindness,
 };
