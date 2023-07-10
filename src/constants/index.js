@@ -104,7 +104,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Squarespace, WordPress, and ignition Developer",
+    title: "Squarespace, WordPress, Shopify, and Web Developer",
     company_name: "Upwork",
     icon: upwork,
     iconBg: "#14a80d",
@@ -113,7 +113,7 @@ const experiences = [
       "Developing and maintaining websites using content management systems and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Work closely with clients to create their vision.",
+      "Work closely with clients to make their vision come to life.",
     ],
   },
   {
@@ -136,14 +136,14 @@ const experiences = [
     iconBg: "#383E56",
     date: "December 2021 - March 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications and WordPress sites for several main clients.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Participating in collaberative development with freelance team.",
     ],
   },
   {
-    title: "Squarespace, WordPress, and ignition Developer",
+    title: "Squarespace, WordPress, Shopify, and Web Developer",
     company_name: "Upwork",
     icon: upwork,
     iconBg: "#14a80d",
@@ -152,7 +152,7 @@ const experiences = [
       "Developing and maintaining websites using content management systems and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Work closely with clients to create their vision.",
+      "Work closely with clients to make their vision come to life.",
     ],
   },
 ];
@@ -160,27 +160,18 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Jacob is an exceptional freelancer and someone that should be a model for other freelancers on UpWork. We received dozens of applications for our small job and everyone overstated the estimated time to complete our task. We had an idea of the time required, as most of us are programmers to some degree, but we needed an expert to handle a truly complicated task. Jacob gave us a quote that was more accurate than anyone else and he delivered without any hesitation. I am pleased that we waited for the right proposal to come in and have confidence in Jacob's ability to tackle any future project we may have, as we will certainly rehire him again in the future.",
+    name: "Adam Xavier",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Jacob was awesome, he communicated well and was willing to go above and beyond to try different solutions to help get the job done. In the end, there was one task that wasn't able to be completed, but Jacob was professional and resilient with trying many alternative options. Thank you! Will certainly work with you again.",
+    name: "Ayden",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Jacob is so talented, I am so happy I hired him. My former Squarespace designer always told me 'can't do this, can't do that'. Everything she told me I couldn't do with Squarespace was wrong!! Jacob did it all and MORE!!! He got the job done same day and he is a joy to work with. Very happy with this Whiz of a programmer/designer.",
+    name: "Stacy Robins",
   },
 ];
 
