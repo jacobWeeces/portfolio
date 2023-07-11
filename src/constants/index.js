@@ -195,6 +195,7 @@ const projects = [
       },
     ],
     image: Heavensdoor,
+    source_code_link: "https://heavensdoor.com",
   },
   {
     name: "Blue Ox Films",
@@ -236,7 +237,7 @@ const projects = [
       },
     ],
     image: kindness,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://kindness.org/",
   },
 ];
 
