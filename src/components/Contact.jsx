@@ -33,8 +33,8 @@ const Contact = () => {
 
     emailjs
       .send(
-        import.meta.env.service_vlfytqs,
-        import.meta.env.template_v4wq2no,
+        'service_vlfytqs',
+        'template_v4wq2no',
         {
           from_name: form.name,
           to_name: "Big Nerd",
@@ -42,7 +42,7 @@ const Contact = () => {
           to_email: "Jacob@weecesdev.com",
           message: form.message,
         },
-        import.meta.env.WQ1RisVtWndVrA5jm
+        'WQ1RisVtWndVrA5jm'
       )
       .then(
         () => {
