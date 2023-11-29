@@ -22,7 +22,6 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import vanbram from "./company/vanbram.png";
-import meta from "./company/meta.png";
 import ignition from "./company/ignition.png";
 import upwork from "./company/upwork.png";
 import foureyes from "./company/foureyes.png";
@@ -60,4 +59,5 @@ export {
   Heavensdoor,
   blueox,
   kindness,
+  vanbram
 };
