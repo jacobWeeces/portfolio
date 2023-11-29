@@ -52,7 +52,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
   ignition,
   upwork,
   foureyes,
