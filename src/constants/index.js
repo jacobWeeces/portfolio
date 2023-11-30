@@ -105,29 +105,16 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Squarespace, WordPress, Shopify, and Web Developer",
-    company_name: "Upwork",
-    icon: upwork,
-    iconBg: "#14a80d",
-    date: "September 2016 - October 2018",
-    points: [
-      "Developing and maintaining websites using content management systems and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Work closely with clients to make their vision come to life.",
-    ],
-  },
-  {
     title: "Owner & Web Developer",
     company_name: "Four Eyes Design",
     icon: foureyes,
     iconBg: "linear-gradient(175deg, rgba(29,153,169,1) 0%, rgba(0,0,0,1) 100%)",
-    date: "October 2018 - October 2021",
+    date: "September 2016 - October 2020",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Led full-scale redesigns prioritizing user experience, utilizing Figma for design and prototyping ahead of site development.",
+      "Expert in Figma for crafting intuitive mockups, prototypes, and designs.",
+      "Applied SEO best practices to enhance website visibility and performance.",
+      "Successfully collaborated with and managed remote teams and clients, ensuring project efficiency and quality.",
     ],
   },
   {
@@ -137,10 +124,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "December 2020 - November 2022",
     points: [
-      "Developing and maintaining web applications and WordPress sites for several clients.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in collaberative development with freelance team.",
+      "Developed full Figma mockups for comprehensive site redesigns, enhancing user accessibility and visual styling.",
+      "Proven ability to work seamlessly with remote teams and clients, ensuring effective communication and project success.",
+      "Specialized in Figma for prototyping and design, creating user-focused and aesthetically pleasing interfaces.",
     ],
   },
   {
@@ -150,9 +136,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "November 2022 - February 2022",
     points: [
-      "Developing and maintaining web applications and WordPress sites for several clients.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Create mockups using Figma design software.",
+      "Spearheaded a comprehensive redesign, focusing on enhancing components, color scheme, and typography to improve both aesthetic appeal and user functionality.",
+      "Skilled in crafting visually appealing and functionally robust web applications.",
+      "Demonstrated effectiveness in collaborating with remote teams, ensuring smooth project execution and communication.",
     ],
   },
   {
@@ -162,10 +148,10 @@ const experiences = [
     iconBg: "#14a80d",
     date: "March 2023 - Present",
     points: [
-      "Developing and maintaining websites using content management systems and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Work closely with clients to make their vision come to life.",
+      "Developed and currently maintain a productivity-focused Chrome extension, showcasing full-stack development skills and a focus on user experience.",
+      "Proficient in Figma, creating efficient, appealing designs and wireframes.",
+      "Strong in understanding and addressing client needs, ensuring alignment of design objectives.",
+      "Experienced in effectively collaborating and managing projects with remote teams and clients.",
     ],
   },
 ];
